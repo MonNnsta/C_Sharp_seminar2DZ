@@ -1,0 +1,15 @@
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/Task15.csproj.AssemblyReference.cache
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/Task15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/Task15.AssemblyInfoInputs.cache
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/Task15.AssemblyInfo.cs
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/Task15.csproj.CoreCompileInputs.cache
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/bin/Debug/net6.0/Task15
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/bin/Debug/net6.0/Task15.deps.json
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/bin/Debug/net6.0/Task15.runtimeconfig.json
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/bin/Debug/net6.0/Task15.dll
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/bin/Debug/net6.0/Task15.pdb
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/Task15.dll
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/refint/Task15.dll
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/Task15.pdb
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/Task15.genruntimeconfig.cache
+/Users/monnnsta/Desktop/C#_Seminar2DZ/Task15/obj/Debug/net6.0/ref/Task15.dll
